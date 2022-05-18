@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "213024882901",
+    "project_id": "padigos-chat-app",
+    "storage_bucket": "padigos-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213024882901:android:21b27226f7aeab3955a25c",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213024882901-9177qrk82r3vprn0lnospv3d3o42tekf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7eQUm0CRaLQNtKGYXaWC2dHH_-J8yRhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213024882901-9177qrk82r3vprn0lnospv3d3o42tekf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
